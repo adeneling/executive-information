@@ -4,6 +4,7 @@
 /storage/*.key
 /vendor
 /.idea
+/routes
 Homestead.json
 Homestead.yaml
 .env
